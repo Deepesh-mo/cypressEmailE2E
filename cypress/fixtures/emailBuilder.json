@@ -1,0 +1,145 @@
+[
+    {
+        "category": "BASIC",
+        "json_url": "https://s3.amazonaws.com/moe-email-campaigns/beeplugin/templates/basic/onecolumn/onecolumn.json",
+        "_id": "5cc0bf7f0f6d427894bf6e44",
+        "img_url": "https://s3.amazonaws.com/moe-email-campaigns/beeplugin/templates/basic/onecolumn/onecolumn.png",
+        "name": "Blank Template"
+    },
+    {
+        "category": "BASIC",
+        "json_url": "https://s3.amazonaws.com/moe-email-campaigns/beeplugin/templates/basic/twocolumn/twocolumn.json",
+        "_id": "5ccecce40f6d42732e9a197f",
+        "img_url": "https://s3.amazonaws.com/moe-email-campaigns/beeplugin/templates/basic/twocolumn/twocolumn.png",
+        "name": "2 Columns"
+    },
+    {
+        "category": "BASIC",
+        "json_url": "https://s3.amazonaws.com/moe-email-campaigns/beeplugin/templates/basic/threecolumn/threecolumn.json",
+        "_id": "5cced1880f6d42732e9a1980",
+        "img_url": "https://s3.amazonaws.com/moe-email-campaigns/beeplugin/templates/basic/threecolumn/threecolumn.png",
+        "name": "3 Columns"
+    },
+    {
+        "category": "BASIC",
+        "json_url": "https://s3.amazonaws.com/moe-email-campaigns/beeplugin/templates/basic/fourcolumn/fourcolumn.json",
+        "_id": "5cced5e90f6d42732e9a1981",
+        "img_url": "https://s3.amazonaws.com/moe-email-campaigns/beeplugin/templates/basic/fourcolumn/fourcolumn.png",
+        "name": "4 Columns"
+    },
+    {
+        "category": "PROMOTIONAL",
+        "json_url": "http://app-cdn.moengage.com/assets/emailcampaign/beeplugin/template_json/18.json",
+        "_id": "5d6910130f6d42656b2e58eb",
+        "img_url": "http://app-cdn.moengage.com/assets/emailcampaign/beeplugin/templates_thumbnails/18_small.jpg",
+        "name": "freelancer-blog"
+    },
+    {
+        "json_url": "http://app-cdn.moengage.com/assets/emailcampaign/beeplugin/template_json/19.json",
+        "_id": "5d7775970f6d424a52204147",
+        "img_url": "http://app-cdn.moengage.com/assets/emailcampaign/beeplugin/templates_thumbnails/19_small.jpg",
+        "name": "basic-ecommerce"
+    },
+    {
+        "json_url": "http://app-cdn.moengage.com/assets/emailcampaign/beeplugin/template_json/20.json",
+        "_id": "5d77796f0f6d424cc6d4271f",
+        "img_url": "http://app-cdn.moengage.com/assets/emailcampaign/beeplugin/templates_thumbnails/20_small.jpg",
+        "name": "wellness"
+    },
+    {
+        "json_url": "http://app-cdn.moengage.com/assets/emailcampaign/beeplugin/template_json/21.json",
+        "_id": "5d777ad80f6d424de26ad0e8",
+        "img_url": "http://app-cdn.moengage.com/assets/emailcampaign/beeplugin/templates_thumbnails/21_small.jpg",
+        "name": "cookies"
+    },
+    {
+        "json_url": "http://app-cdn.moengage.com/assets/emailcampaign/beeplugin/template_json/22.json",
+        "_id": "5d777b470f6d424e573d11f8",
+        "img_url": "http://app-cdn.moengage.com/assets/emailcampaign/beeplugin/templates_thumbnails/22_small.jpg",
+        "name": "ecommerce"
+    },
+    {
+        "json_url": "http://app-cdn.moengage.com/assets/emailcampaign/beeplugin/template_json/23.json",
+        "_id": "5d777bb60f6d424eac270dcc",
+        "img_url": "http://app-cdn.moengage.com/assets/emailcampaign/beeplugin/templates_thumbnails/23_small.jpg",
+        "name": "travel-agency"
+    },
+    {
+        "json_url": "http://app-cdn.moengage.com/assets/emailcampaign/beeplugin/template_json/24.json",
+        "_id": "5d777ec50f6d425474328682",
+        "img_url": "http://app-cdn.moengage.com/assets/emailcampaign/beeplugin/templates_thumbnails/24_small.jpg",
+        "name": "happy-meal"
+    },
+    {
+        "json_url": "http://app-cdn.moengage.com/assets/emailcampaign/beeplugin/template_json/25.json",
+        "_id": "5d777f3b0f6d425928fb2e85",
+        "img_url": "http://app-cdn.moengage.com/assets/emailcampaign/beeplugin/templates_thumbnails/25_small.jpg",
+        "name": "traveler"
+    },
+    {
+        "json_url": "http://app-cdn.moengage.com/assets/emailcampaign/beeplugin/template_json/26.json",
+        "_id": "5d777fa50f6d425cdbf7fbaf",
+        "img_url": "http://app-cdn.moengage.com/assets/emailcampaign/beeplugin/templates_thumbnails/26_small.jpg",
+        "name": "fashion-lifestyle"
+    },
+    {
+        "json_url": "http://app-cdn.moengage.com/assets/emailcampaign/beeplugin/template_json/27.json",
+        "_id": "5d77811a0f6d425da5a7eb29",
+        "img_url": "http://app-cdn.moengage.com/assets/emailcampaign/beeplugin/templates_thumbnails/27_small.jpg",
+        "name": "track-your-order"
+    },
+    {
+        "json_url": "http://app-cdn.moengage.com/assets/emailcampaign/beeplugin/template_json/28.json",
+        "_id": "5d7781b00f6d425e43e22bef",
+        "img_url": "http://app-cdn.moengage.com/assets/emailcampaign/beeplugin/templates_thumbnails/28_small.jpg",
+        "name": "basic-coupon"
+    },
+    {
+        "json_url": "http://app-cdn.moengage.com/assets/emailcampaign/beeplugin/template_json/29.json",
+        "_id": "5d77820a0f6d425eb4b6efe3",
+        "img_url": "http://app-cdn.moengage.com/assets/emailcampaign/beeplugin/templates_thumbnails/29_small.jpg",
+        "name": "fashion-discount"
+    },
+    {
+        "json_url": "http://app-cdn.moengage.com/assets/emailcampaign/beeplugin/template_json/30.json",
+        "_id": "5d77825a0f6d425f23386380",
+        "img_url": "http://app-cdn.moengage.com/assets/emailcampaign/beeplugin/templates_thumbnails/30_small.jpg",
+        "name": "booking-confirmation"
+    },
+    {
+        "json_url": "http://app-cdn.moengage.com/assets/emailcampaign/beeplugin/template_json/31.json",
+        "_id": "5d7782b70f6d426151b1bffe",
+        "img_url": "http://app-cdn.moengage.com/assets/emailcampaign/beeplugin/templates_thumbnails/31_small.jpg",
+        "name": "welcome-email"
+    },
+    {
+        "json_url": "http://app-cdn.moengage.com/assets/emailcampaign/beeplugin/template_json/32.json",
+        "_id": "5d77832e0f6d4265a2f153cb",
+        "img_url": "http://app-cdn.moengage.com/assets/emailcampaign/beeplugin/templates_thumbnails/32_small.jpg",
+        "name": "spread-the-order"
+    },
+    {
+        "json_url": "http://app-cdn.moengage.com/assets/emailcampaign/beeplugin/template_json/33.json",
+        "_id": "5d77838c0f6d4267a65f4385",
+        "img_url": "http://app-cdn.moengage.com/assets/emailcampaign/beeplugin/templates_thumbnails/33_small.jpg",
+        "name": "ecommerce-bag"
+    },
+    {
+        "json_url": "http://app-cdn.moengage.com/assets/emailcampaign/beeplugin/template_json/34.json",
+        "_id": "5d7783f60f6d426adcaa6ad2",
+        "img_url": "http://app-cdn.moengage.com/assets/emailcampaign/beeplugin/templates_thumbnails/34_small.jpg",
+        "name": "travel-guide"
+    },
+    {
+        "json_url": "http://app-cdn.moengage.com/assets/emailcampaign/beeplugin/template_json/35.json",
+        "_id": "5d77844c0f6d426c048e25d2",
+        "img_url": "http://app-cdn.moengage.com/assets/emailcampaign/beeplugin/templates_thumbnails/35_small.jpg",
+        "name": "travel-guide-survey"
+    },
+    {
+        "json_url": "http://app-cdn.moengage.com/assets/emailcampaign/beeplugin/template_json/36.json",
+        "_id": "5d7784f20f6d426e6f210564",
+        "img_url": "http://app-cdn.moengage.com/assets/emailcampaign/beeplugin/templates_thumbnails/36_small.jpg",
+        "name": "travel-guide-confirmation"
+    }
+]
