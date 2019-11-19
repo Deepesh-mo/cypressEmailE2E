@@ -1,5 +1,20 @@
 {
   "baseUrl1": "https://staging4.moengage.com",
   "baseUrl": "http://localhost:3000",
-  "projectId": "2jyxxw"
+  "projectId": "2jyxxw",
+  "execTimeout": 60000,
+  "taskTimeout": 60000,
+  "defaultCommandTimeout": 20000,
+  "pageLoadTimeout": 200000,
+  "responseTimeout": 10000,
+  "env": {
+    "staging": {
+      "username": "kanika@moengage.com",
+      "password": "moengage@123"
+    },
+    "dev": {
+      "username": "kanika@moengage.com",
+      "password": "moengage@123"
+    }
+  }
 }

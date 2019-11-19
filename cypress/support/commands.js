@@ -11,11 +11,13 @@
 //
 // -- This is a login command --
 Cypress.Commands.add('login', (userType, options = {}) => {
+    const { username, password } = Cypress.env('dev');
+    console.log(username, password)
     const loginTypes = {
         emailLogin: {
             body: {
-                login_email: 'kanika@moengage.com',
-                login_pass: 'moengage@123'
+                login_email: username,
+                login_pass: password
             },
             url: '/login?form.submitted=true&api=1',
             form: true
@@ -48,7 +50,6 @@ Cypress.Commands.add('login', (userType, options = {}) => {
 })
 
 Cypress.on('uncaught:exception', (err, runnable) => {
-    cy.debug(err)
     cy.log(err);
     cy.log(runnable);
     return false

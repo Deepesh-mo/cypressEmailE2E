@@ -4,12 +4,17 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "cypress": "cypress open",
+    "cypress": "NODE_ENV=dev cypress open env",
+    "headless": "cypress run",
     "record": "cypress run --record --key 6ff8d50e-356d-437f-8f91-43c2b54257e8"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "cypress": "^3.4.1"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "faker": "^4.1.0"
   }
 }
