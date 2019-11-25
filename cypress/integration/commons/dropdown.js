@@ -1,8 +1,8 @@
 
-var chai = require('chai');
-var assert = chai.assert;    // Using Assert style
-var expect = chai.expect;    // Using Expect style
-var should = chai.should();  // Using Should style
+// var chai = require('chai');
+// var assert = chai.assert;    // Using Assert style
+// var expect = chai.expect;    // Using Expect style
+// var should = chai.should();  // Using Should style
 
 describe('Cypress', () => {
 
@@ -48,7 +48,7 @@ describe('Cypress', () => {
 
     it('Selected value is correct', () => {
         cy.log(`selectedItem is ${selectedItem} and choosenValue is ${choosenValue} `)
-        expect(choosenValue).to.eq(selectedItem)
+        expect(choosenValue).to.equal(selectedItem)
     })
 
 
@@ -64,7 +64,7 @@ describe('Cypress', () => {
     it('Value should be filtered', () => {
         cy.get('.mds-dropdown__popup__list__item').each(($el, index, $list) => {
             cy.log($el[0].innerText)
-            cy.log(expect($el[0].innerText).to.contain('User'))
+            expect($el[0].innerText).to.contains('User')
         })
     })
 
